@@ -1,0 +1,1 @@
+# hww_technicke_vybavenie_pc
