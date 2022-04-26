@@ -1,0 +1,53 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>HWW-Technické vybavenie PC</title>
+  <style>
+h1 {
+  color: Black;
+  background-color: Blue;
+  font-family: Verdana;
+}
+h2 {
+  color: Black;
+  background-color: White;
+  font-family: Arial;
+}
+body {
+  font-family: Verdana;
+}
+p {
+  font-family: "Verdana";
+}
+
+address {
+  font-family: "Courier New";
+}
+  </style>   
+</head>
+<body>
+  <h1><center>Technické vybavenie počítačov</center></h1>
+  <center><img src="obrazky/ssjh.jpg" alt="ssjh" width="200" height="200" title="ssjh">
+  <h2><center>1. ročník</h2>
+  <p><center>základy číslicovej techniky
+</p> <center>kombinačné obvody
+</p> <center>sekvenčné obvody
+</p> <center>procesorový systém
+  <h2><center>2. ročník</h2>
+  <p><center>rozhrania a zbernice</p>
+</p> <center>pamäte
+</p> <center>princípy prídavných zariadení
+  <h2>3. ročník</h2>
+  <p>základná práca s počítačom
+</p> úvod do PC sietí
+</p> typológia
+</p> sieťové zariadenia  
+  <h2>4. ročník</h2>
+  <p>smerovacie protokoly
+</p> bezdrôtové siete
+</p> bezpečnosť sietí
+  <h2>Kontakt</h2>  
+  <address>Spojená škola J. Henischa, Slovenská 5, 085 01 Bardejov<br> tel. +544861950<br> email: ssjhbj@slovanet.sk </address>
+</body>
+</html>
